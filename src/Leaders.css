@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+
+.content {
+    background-image: url("india.jpg");
+    color: rgb(3, 34, 77);
+    font-family: "Source Sans Pro", sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    margin: -10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.leaders h1{
+    color: rgb(248, 110, 91);
+}
+
+.leaders table{
+    width: 700px;
+    font-size: 30px;
+}
